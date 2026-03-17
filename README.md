@@ -45,7 +45,7 @@ pip install flask python-pptx python-dotenv google-generativeai supabase
 python app.py
 ```
 
-Open: http://localhost:5000
+Open this folder in your local host 
 
 ---
 
